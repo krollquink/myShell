@@ -2,6 +2,7 @@
 "proxy_info":{
  "ip_address":"test",
  "user_name":"",
- "password":""
+ "password":"",
+ "proxy_identifier":""
 }	
 }
